@@ -1,0 +1,14 @@
+---
+
+galaxy_info:
+        author: Mikhail Shubin
+        description: Ansible role
+        company: .
+        license: Apache
+        min_ansible_version: 1.2
+        platforms:
+                - name: RHEL
+        versions:
+                - 7.0
+        categories:
+                - system
